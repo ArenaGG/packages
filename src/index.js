@@ -7,3 +7,7 @@ exports.models = {
     Coinflip, 
     Jackpot
 }
+
+exports.utils = {
+    convertDenomination: require("./utils/denomination")
+}
