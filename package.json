@@ -1,0 +1,14 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "description": "types, utils and models used across arena services",
+  "main": "index.js",
+  "repository": "https://github.com/ArenaGG/packages.git",
+  "author": "lrz <lrz0@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chance": "^1.1.11",
+    "mongoose": "^7.5.0",
+    "uniqid": "^5.4.0"
+  }
+}
