@@ -2,7 +2,7 @@
   "name": "packages",
   "version": "1.0.0",
   "description": "types, utils and models used across arena services",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "https://github.com/ArenaGG/packages.git",
   "author": "lrz <lrz0@protonmail.com>",
   "license": "MIT",
