@@ -102,7 +102,11 @@ const coinflipSchema = mongoose.Schema({
     fee: {
         type: Number, 
         // default: potConfig.coinflipFee
-        default: 0.05
+        default: 0.1
+    },
+
+    status: {
+        type: String,
     }
 })
 
